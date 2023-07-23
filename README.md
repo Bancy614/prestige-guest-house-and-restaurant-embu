@@ -1,2 +1,2 @@
-# prestige-guest-house-and-restaurant-embu
+# prestige-guest-lodge-and-restaurant-embu
 hotel embu
